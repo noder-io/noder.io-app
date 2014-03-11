@@ -1,0 +1,23 @@
+#!/usr/bin/env node
+
+var noder     = require('noder.io');
+var commander = noder.commander;
+
+commander  
+  .option('-s, --static', 'Run a static server')
+  .option('-r, --root <path>', 'The root path (default: public)')
+  .option('-p, --port <port>', 'The port (default: 3000)')
+  .option('--debug', 'Debug mode')
+  
+  .parse(process.argv)
+;
+
+// server: static
+if(commander.static){
+  
+  require('../lib/servers/static')({
+    root: commander.root,
+    port: commander.port,
+    debug: commander.debug
+  });
+}
