@@ -1,5 +1,8 @@
 # Noder.io-app
 
+[![Actual version published on NPM](https://badge.fury.io/js/noder.io-app.png)](https://www.npmjs.org/package/noder.io-app)
+[![Dependencies](https://david-dm.org/noder-io/noder.io-app.png)](https://david-dm.org/noder-io/noder.io-app)
+
 _noder.io-app_ is a light starter toolkit to start and organize quickly an application with Node.js. Noder.io-app provides _express_ and other features (router that support the named routes, _express-load_, ...).
 
 _noder.io-app_ is an extension of [Noder.io](https://github.com/noder-io/noder.io).
