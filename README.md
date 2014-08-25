@@ -1,5 +1,11 @@
 # Noder.io-app
 
+
+## DEPRECATED
+
+Works only with [noder.io@v0](https://github.com/noder-io/noder.io/releases/tag/v0) and [Express 3](https://github.com/strongloop/express/tree/3.x).
+
+
 [![Actual version published on NPM](https://badge.fury.io/js/noder.io-app.png)](https://www.npmjs.org/package/noder.io-app)
 [![Dependencies](https://david-dm.org/noder-io/noder.io-app.png)](https://david-dm.org/noder-io/noder.io-app)
 
@@ -125,5 +131,4 @@ BSD 2, see LICENSE file for more info.
 | [![Nicolas Tallefourtane - Nicolab.net](http://www.gravatar.com/avatar/d7dd0f4769f3aa48a3ecb308f0b457fc?s=64)](http://nicolab.net) |
 |---|
 | [Nicolas Talle](http://nicolab.net) |
-| [![Support via Gittip](http://img.shields.io/gittip/Nicolab.svg)](https://www.gittip.com/Nicolab/) |
 | [![Make a donation via Paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PGRH4ZXP36GUC) |
