@@ -1,9 +1,13 @@
 # Noder.io-app
 
 
-## DEPRECATED
+## DEPRECATED !
+
+This package is deprecated.
 
 Works only with [noder.io@v0](https://github.com/noder-io/noder.io/releases/tag/v0) and [Express 3](https://github.com/strongloop/express/tree/3.x).
+
+---
 
 
 [![Actual version published on NPM](https://badge.fury.io/js/noder.io-app.png)](https://www.npmjs.org/package/noder.io-app)
