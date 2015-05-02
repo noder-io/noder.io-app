@@ -30,7 +30,7 @@
     "url":"http://nicolab.net"
   },
 
-  "license": "BSD-2",
+  "license": "BSD-2-Clause",
 
   "engines": {
     "node": ">= 0.10.0"
